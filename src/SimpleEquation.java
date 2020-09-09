@@ -24,7 +24,5 @@ public class SimpleEquation {
                 System.out.print("No solution!");
             }
         }
-
-
     }
 }
